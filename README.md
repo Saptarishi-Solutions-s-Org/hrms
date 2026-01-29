@@ -49,3 +49,5 @@ Run npx drizzle-kit generate
 Commit new migration
 
 Run npx drizzle-kit migrate
+
+#npm run build 
